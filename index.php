@@ -97,7 +97,7 @@
                                                     Ofrecemos al mercado latinoamericano y extranjero un amplio portafolio de productos y servicios integrales para las áreas escolar, industrial, decorativa, comercial y cualquier proyecto sobre diseño, satisfaciendo los requerimientos de los clientes más exigentes.
                                                 </p>
                                                 <hr class="no_line" style="margin: 0 auto 30px;" />
-                                                <a class="button button_size_2 button_js" href="content/kids/about.html"><span class="button_label">Nosotros</span></a>
+                                                <a class="button button_size_2 button_js" href="nosotros.php"><span class="button_label">Nosotros</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -205,7 +205,7 @@
                                         </div>
                                         <div class="column mcb-column one column_button">
                                             <div class="button_align align_center">
-                                                <a class="button button_size_2 button_theme button_js" href="content/kids/offer.html"><span class="button_label">Conoce nuestra oferta.</span></a>
+                                                <a class="button button_size_2 button_theme button_js" href="nosotros.php"><span class="button_label">Conoce nuestra oferta.</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -233,7 +233,7 @@
                                         </div>
                                         <div class="column mcb-column one column_button">
                                             <div class="button_align align_center">
-                                                <a class="button button_size_2 button_js" href="content/kids/gallery.html"><span class="button_label">Ver galería</span></a>
+                                                <a class="button button_size_2 button_js" href="galeria.php"><span class="button_label">Ver galería</span></a>
                                             </div>
                                         </div>
                                     </div>
