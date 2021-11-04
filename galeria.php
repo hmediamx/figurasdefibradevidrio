@@ -175,12 +175,12 @@
     <!-- JS -->
     <script src="../../js/jquery-2.1.4.min.js"></script>
 
-    <script src="../../js/mfn.menu.js"></script>
-    <script src="../../js/jquery.plugins.js"></script>
-    <script src="../../js/jquery.jplayer.min.js"></script>
-    <script src="../../js/animations/animations.js"></script>
-    <script src="../../js/translate3d.js"></script>
-    <script src="../../js/scripts.js"></script>
+    <script src="./../../js/mfn.menu.js"></script>
+    <script src="./../../js/jquery.plugins.js"></script>
+    <script src="./../../js/jquery.jplayer.min.js"></script>
+    <script src="./../../js/animations/animations.js"></script>
+    <script src="./../../js/translate3d.js"></script>
+    <script src="./../../js/scripts.js"></script>
 
 
 </body>
